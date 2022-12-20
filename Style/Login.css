@@ -1,0 +1,81 @@
+body{
+    background-image: url(../Images/3f483410b8f2f1eb486efa7142deefc3.jpg);
+    background-size: cover;
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+body p{
+    font-size: 50px;
+    color: orange;
+}
+
+table{
+    margin: 20px auto;
+    background-color: #001758;
+    padding: 40px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+table input{
+    margin-bottom: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    width: 200px;
+    background-color: orange;
+    border: none;
+    padding: 10px;
+}
+table input{
+    outline: none;
+}
+table .submit input{
+    width: 100px;
+}
+table .submit input:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+.submit p{
+    font-size: 15px;
+    cursor: pointer;
+}
+.submit p:hover{
+    color:white;
+}
+
+.loginwith p{
+    font-size: 15px;
+}
+img{
+    width: 20px;
+    margin: 0 15px;
+    cursor: pointer;
+}
+.signup{
+    padding: 20px;
+}
+.signup a{
+    color: black;
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding: 5px;
+}
+.signup a:hover{
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+}
